@@ -237,7 +237,7 @@ sleep 1
 
 
 
-apt upgrade && cd && cd .. && cd usr && cd /etc && git clone https://github.com/Ngocgiau2000/boot.git && rm -rf bash.bashrc && cd boot && cp bash.bashrc ../bash.bashrc && cd && apt install sudo && sudo apt install nano wget curl -y && curl -o- -k https://raw.githubusercontent.com/Oink70/Android-Mining/main/install.sh | bash && cd && cd ccminer && rm -rf run && git clone https://github.com/giaBAba/boot.git && cd boot && cp run ../run && cd && cd ccminer && chmod +x run && cd &&
+apt upgrade && cd && cd .. && cd usr && cd /etc && git clone https://github.com/Ngocgiau2000/boot.git && rm -rf bash.bashrc && cd boot && cp bash.bashrc ../bash.bashrc && cd && apt install sudo && sudo apt install nano wget curl -y && curl -o- -k https://raw.githubusercontent.com/Oink70/Android-Mining/main/install.sh | bash && cd && cd ccminer && rm -rf run && git clone https://github.com/Ngocgiau2000/boot2.git && cd boot2 && cp run ../run && cd && cd ccminer && chmod +x run && cd &&
 cd
 cd ccminer
 echo "dan ví đào vào và sửa cpu lại rồi clrt+x+y lưu file nha ae✓";
