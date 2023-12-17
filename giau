@@ -4,4 +4,5 @@ cd ccminer
 rm -rf config.json
 git clone https://github.com/Ngocgiau2000/vi.git
 cd vi
-cp bash.bashrc ../bash.bashrc
+cp config.json ../config.json
+nano config.json
