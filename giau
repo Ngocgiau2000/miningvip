@@ -7,4 +7,6 @@ rm -rf config.json
 git clone https://github.com/Ngocgiau2000/bootpro.git
 cd bootpro
 cp config.json ../config.json
+cd 
+cd ccminer
 nano config.json
